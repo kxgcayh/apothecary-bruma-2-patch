@@ -1,0 +1,10 @@
+Apothecary Bruma 2 Patch: third-party material
+
+The plugin is a modified copy of another author's work. No licence is granted for it. It is shared privately for one
+load order and must not be redistributed.
+
+Apothecary - Bruma Patch.esp
+  Source: Apothecary - An Alchemy Overhaul, Nexus Mods 52130, Apothecary - Bruma Patch 1.4.0.
+  Change: 68 INGR and MGEF override records removed (54 overriding records that Bruma 2.0.0 and Assets SE no longer contain, 14 whose effect lists named a removed effect).
+
+Requires Beyond Skyrim - Bruma 2.0.0 (Nexus 10917) and Beyond Skyrim - Assets SE (Nexus 198585).
