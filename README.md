@@ -1,6 +1,6 @@
 # Apothecary Bruma 2 Patch
 
-Local and private, never published: Apothecary - Bruma Patch.esp with the records removed that Beyond Skyrim - Bruma 2.0.0 and
+Apothecary - Bruma Patch.esp with the records removed that Beyond Skyrim - Bruma 2.0.0 and
 Beyond Skyrim - Assets SE 2026.11.11 no longer contain.
 
 Source: Apothecary - An Alchemy Overhaul, Nexus Mods 52130, Apothecary - Bruma Patch 1.4.0.

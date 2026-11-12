@@ -1,7 +1,7 @@
 name = "Apothecary-Bruma-2-Patch"
 display_name = "Apothecary Bruma 2 Patch"
 version = "0.1.0"
-description = "Apothecary - Bruma Patch without the 68 ingredient and effect records Beyond Skyrim - Bruma 2.0.0 and Assets SE removed. Private use."
+description = "Apothecary - Bruma Patch without the 68 ingredient and effect records Beyond Skyrim - Bruma 2.0.0 and Assets SE removed."
 
 [files]
 "Apothecary - Bruma Patch.esp" = "dist/Apothecary - Bruma Patch.esp"
