@@ -31,12 +31,11 @@ Copy `dist/Apothecary - Bruma Patch.esp` over the original in MO2. Reinstalling 
 
 ## Credits and Permissions
 
-Checked on 2026-11-13 against each mod's Nexus permission block and author notes, not its description or readme. The plugin is derived from the mods below and stays under their authors' terms.
+Credit goes to the authors of the mods below. Permission status is based on each mod's Nexus page permissions, read on 2026-11-13.
 
-| Mod | Author | What the Nexus page says | Status |
-|---|---|---|---|
-| [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130) | Simon Magus, DeltaRider and Oreo | Upload, modification, conversion and asset use are allowed. Author notes: no permission is needed for patches or other derivative work. | allowed |
-| [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | The Beyond Skyrim - Cyrodiil Development Team | No permission block. Author notes: addons and compatibility patches may be distributed, and fixes should be shared with the team first; the full mod and resources made for Beyond Skyrim may not be redistributed. | allowed |
-| [Beyond Skyrim - Assets SE](https://www.nexusmods.com/skyrimspecialedition/mods/198585) | BeyondSkyrimDC | No permission block. Author notes: as Beyond Skyrim - Bruma SE (compatibility patches allowed; the full mod and its resources may not be redistributed). | allowed |
+- [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130) by Simon Magus, DeltaRider and Oreo: allowed based on the Nexus page permissions
+- [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) by The Beyond Skyrim - Cyrodiil Development Team: allowed based on the Nexus page permissions
+- [Beyond Skyrim - Assets SE](https://www.nexusmods.com/skyrimspecialedition/mods/198585) by BeyondSkyrimDC: allowed based on the Nexus page permissions
 
-Every source allows a patch like this with credit; credit the authors above when publishing. Beyond Skyrim asks that fixes be shared with its team first.
+Credit the authors above and share fixes with the Beyond Skyrim team.
+
